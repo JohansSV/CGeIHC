@@ -1,0 +1,23 @@
+﻿  Mesh.cpp
+  practica2.cpp
+  Shader.cpp
+C:\Users\tutor\Downloads\practica2\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "../practica2.cpp")
+  
+C:\Users\tutor\Downloads\practica2\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "../practica2.cpp")
+  
+C:\Users\tutor\Downloads\practica2\practica2.cpp(17,37): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Window.cpp
+C:\Users\tutor\Downloads\practica2\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "../Window.cpp")
+  
+C:\Users\tutor\Downloads\practica2\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "../Window.cpp")
+  
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\tutor\Downloads\practica2\Window.cpp(74): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+  All 376 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Practica2.vcxproj -> C:\Users\tutor\Downloads\practica2\Release\Practica2.exe
