@@ -1,0 +1,6 @@
+﻿  Generando código
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\tutor\Downloads\practica 3 Modelado Geométrico\Practica3\Practica3\Window.cpp(77): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+  All 652 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Practica3.vcxproj -> C:\Users\tutor\Downloads\practica 3 Modelado Geométrico\Practica3\Release\Practica3.exe
