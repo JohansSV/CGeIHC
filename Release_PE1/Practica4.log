@@ -1,0 +1,6 @@
+﻿  Generando código
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\tutor\Downloads\practica4 Modelado Jerarquico\Practica4\Practica4\Window.cpp(86): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+  All 612 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Practica4.vcxproj -> C:\Users\tutor\Downloads\practica4 Modelado Jerarquico\Practica4\Release\Practica4.exe
